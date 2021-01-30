@@ -371,3 +371,1834 @@ console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection cl
 console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter69, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:392:23\n", "resource://devtools/shared/protocol/Front.js", 99))
 1611727447279	Marionette	INFO	Stopped listening on port 43437
 1611727530426	Marionette	INFO	Stopped listening on port 39739
+1611766289437	geckodriver	INFO	Listening on 127.0.0.1:51207
+1611766290442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoju1FF"
+
+(firefox:31832): Gtk-WARNING **: 08:51:30.515: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32084): Gtk-WARNING **: 08:51:31.723: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32105): Gtk-WARNING **: 08:51:32.011: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:31832): GLib-GIO-WARNING **: 08:51:32.596: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32187): Gtk-WARNING **: 08:51:33.753: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611766293945	Marionette	INFO	Listening on port 46337
+1611766294012	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611766354876	Marionette	INFO	Stopped listening on port 46337
+1611766356285	geckodriver	INFO	Listening on 127.0.0.1:46037
+1611766356288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJdXjnm"
+
+(firefox:32419): Gtk-WARNING **: 08:52:36.408: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32667): Gtk-WARNING **: 08:52:37.640: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32689): Gtk-WARNING **: 08:52:37.905: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:32419): GLib-GIO-WARNING **: 08:52:38.348: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32767): Gtk-WARNING **: 08:52:39.528: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611766359693	Marionette	INFO	Listening on port 42969
+1611766359742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611766619567	Marionette	INFO	Stopped listening on port 42969
+1611766667139	geckodriver	INFO	Listening on 127.0.0.1:49357
+1611766667143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemiAU73"
+
+(firefox:33700): Gtk-WARNING **: 08:57:47.225: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:33952): Gtk-WARNING **: 08:57:48.577: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:33972): Gtk-WARNING **: 08:57:48.806: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:33700): GLib-GIO-WARNING **: 08:57:49.214: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34056): Gtk-WARNING **: 08:57:50.259: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611766670467	Marionette	INFO	Listening on port 46601
+1611766670548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1611766762606	Marionette	INFO	Stopped listening on port 46601
+1611766772642	geckodriver	INFO	Listening on 127.0.0.1:45699
+1611766772648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqVSe2P"
+
+(firefox:34465): Gtk-WARNING **: 08:59:32.745: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:34538): Gtk-WARNING **: 08:59:33.916: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:34558): Gtk-WARNING **: 08:59:34.190: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:34465): GLib-GIO-WARNING **: 08:59:34.721: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:34637): Gtk-WARNING **: 08:59:35.744: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611766775916	Marionette	INFO	Listening on port 38169
+1611766776004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611766928917	Marionette	INFO	Stopped listening on port 38169
+1611766968190	geckodriver	INFO	Listening on 127.0.0.1:38909
+1611766968193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBkyGWZ"
+
+(firefox:35327): Gtk-WARNING **: 09:02:48.289: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35393): Gtk-WARNING **: 09:02:49.522: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35599): Gtk-WARNING **: 09:02:49.754: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:35327): GLib-GIO-WARNING **: 09:02:50.272: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:35687): Gtk-WARNING **: 09:02:51.551: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611766971696	Marionette	INFO	Listening on port 43161
+1611766971747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611766984963	Marionette	INFO	Stopped listening on port 43161
+1611767008285	geckodriver	INFO	Listening on 127.0.0.1:44959
+1611767008288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg5pfZb"
+
+(firefox:35843): Gtk-WARNING **: 09:03:28.388: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36004): Gtk-WARNING **: 09:03:29.690: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36026): Gtk-WARNING **: 09:03:29.968: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:35843): GLib-GIO-WARNING **: 09:03:30.463: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:36108): Gtk-WARNING **: 09:03:31.426: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767011694	Marionette	INFO	Listening on port 45071
+1611767011748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+1611767042971	geckodriver	INFO	Listening on 127.0.0.1:52299
+1611767042977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH1C77C"
+
+(firefox:36321): Gtk-WARNING **: 09:04:03.066: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36400): Gtk-WARNING **: 09:04:04.287: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36420): Gtk-WARNING **: 09:04:04.676: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:36321): GLib-GIO-WARNING **: 09:04:05.126: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:36516): Gtk-WARNING **: 09:04:06.314: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767046571	Marionette	INFO	Listening on port 45143
+1611767046657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+1611767104302	geckodriver	INFO	Listening on 127.0.0.1:54069
+1611767105303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2GTcaD"
+
+(firefox:36804): Gtk-WARNING **: 09:05:05.617: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37087): Gtk-WARNING **: 09:05:07.276: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37108): Gtk-WARNING **: 09:05:08.424: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:36804): GLib-GIO-WARNING **: 09:05:11.094: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Exiting due to channel error.
+Exiting due to channel error.
+1611767166164	Marionette	INFO	Stopped listening on port 45143
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611767172032	Marionette	INFO	Stopped listening on port 45071
+1611767175050	geckodriver	INFO	Listening on 127.0.0.1:52615
+1611767176054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYJJdh2"
+
+(firefox:37406): Gtk-WARNING **: 09:06:16.207: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37472): Gtk-WARNING **: 09:06:17.541: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37654): Gtk-WARNING **: 09:06:17.897: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:37406): GLib-GIO-WARNING **: 09:06:18.386: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37730): Gtk-WARNING **: 09:06:19.452: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767179636	Marionette	INFO	Listening on port 34331
+1611767179735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611767206812	Marionette	INFO	Stopped listening on port 34331
+1611767208143	geckodriver	INFO	Listening on 127.0.0.1:34673
+1611767208148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Qc8BB"
+
+(firefox:37881): Gtk-WARNING **: 09:06:48.226: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38114): Gtk-WARNING **: 09:06:49.437: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38134): Gtk-WARNING **: 09:06:49.779: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:37881): GLib-GIO-WARNING **: 09:06:50.184: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:38218): Gtk-WARNING **: 09:06:51.386: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767211643	Marionette	INFO	Listening on port 45725
+1611767211720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+1611767258006	geckodriver	INFO	Listening on 127.0.0.1:44883
+1611767258009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesl7mIy"
+
+(firefox:38403): Gtk-WARNING **: 09:07:38.088: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38508): Gtk-WARNING **: 09:07:39.251: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38528): Gtk-WARNING **: 09:07:39.627: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:38403): GLib-GIO-WARNING **: 09:07:40.163: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38624): Gtk-WARNING **: 09:07:41.429: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767261682	Marionette	INFO	Listening on port 46673
+1611767261771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611767273618	Marionette	INFO	Stopped listening on port 46673
+1611767280080	geckodriver	INFO	Listening on 127.0.0.1:56747
+1611767281071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezXPqSo"
+
+(firefox:38777): Gtk-WARNING **: 09:08:01.283: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38850): Gtk-WARNING **: 09:08:02.604: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38871): Gtk-WARNING **: 09:08:02.900: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:38777): GLib-GIO-WARNING **: 09:08:03.582: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:38940): Gtk-WARNING **: 09:08:04.313: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767285129	Marionette	INFO	Listening on port 44751
+1611767285238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611767319074	Marionette	INFO	Stopped listening on port 44751
+1611767324507	geckodriver	INFO	Listening on 127.0.0.1:56197
+1611767325504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileITqpKw"
+
+(firefox:39151): Gtk-WARNING **: 09:08:45.715: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:39356): Gtk-WARNING **: 09:08:46.934: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:39376): Gtk-WARNING **: 09:08:47.236: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:39151): GLib-GIO-WARNING **: 09:08:47.934: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:39450): Gtk-WARNING **: 09:08:48.968: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611767329663	Marionette	INFO	Listening on port 38181
+1611767329778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611767373684	Marionette	INFO	Stopped listening on port 38181
+1611767779886	geckodriver	INFO	Listening on 127.0.0.1:47183
+1611767780887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9wx86"
+
+(firefox:41028): Gtk-WARNING **: 09:16:21.136: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:41328): Gtk-WARNING **: 09:16:24.725: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+Exiting due to channel error.
+1611767944109	geckodriver	INFO	Listening on 127.0.0.1:39759
+1611767945109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehNJsij"
+
+(firefox:41661): Gtk-WARNING **: 09:19:05.558: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:41905): Gtk-WARNING **: 09:19:10.890: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+Exiting due to channel error.
+
+(/usr/lib/firefox/firefox:42043): Gtk-WARNING **: 09:20:05.524: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+Exiting due to channel error.
+1611781116024	geckodriver	INFO	Listening on 127.0.0.1:52775
+1611781117024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9rOtz"
+
+(firefox:42163): Gtk-WARNING **: 12:58:37.442: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:42479): Gtk-WARNING **: 13:00:41.644: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+Exiting due to channel error.
+1611781249339	Marionette	INFO	Stopped listening on port 45725
+1611781305181	geckodriver	INFO	Listening on 127.0.0.1:58515
+1611781306181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuwklfI"
+
+(firefox:42744): Gtk-WARNING **: 13:01:46.350: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:42865): Gtk-WARNING **: 13:01:47.790: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:42885): Gtk-WARNING **: 13:01:48.065: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:42744): GLib-GIO-WARNING **: 13:01:48.474: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:42966): Gtk-WARNING **: 13:01:49.838: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611781309935	Marionette	INFO	Listening on port 39571
+1611781310040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1611781323202	Marionette	INFO	Stopped listening on port 39571
+1611781349442	geckodriver	INFO	Listening on 127.0.0.1:56749
+1611781350436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqdOzrA"
+
+(firefox:43124): Gtk-WARNING **: 13:02:30.639: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:43212): Gtk-WARNING **: 13:02:31.903: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:43232): Gtk-WARNING **: 13:02:32.215: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:43124): GLib-GIO-WARNING **: 13:02:32.709: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1611781353806	Marionette	INFO	Listening on port 40607
+
+(/usr/lib/firefox/firefox:43308): Gtk-WARNING **: 13:02:33.886: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611781353929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611781389077	Marionette	INFO	Stopped listening on port 40607
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611781530288	geckodriver	INFO	Listening on 127.0.0.1:41507
+1611781531286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBUA9Fx"
+
+(firefox:43708): Gtk-WARNING **: 13:05:31.500: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:43962): Gtk-WARNING **: 13:05:33.297: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:43982): Gtk-WARNING **: 13:05:34.365: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:43708): GLib-GIO-WARNING **: 13:05:37.547: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:44116): Gtk-WARNING **: 13:06:06.566: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1611781614510	geckodriver	INFO	Listening on 127.0.0.1:50739
+1611781615515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0kQQx2"
+
+(firefox:44243): Gtk-WARNING **: 13:06:55.712: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:44486): Gtk-WARNING **: 13:06:57.368: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:44503): Gtk-WARNING **: 13:06:57.722: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:44243): GLib-GIO-WARNING **: 13:06:59.037: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:44598): Gtk-WARNING **: 13:07:02.852: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611781627706	Marionette	INFO	Listening on port 39199
+1611781628637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611781660736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611781688593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611781740686	Marionette	INFO	Stopped listening on port 39199
+1611781799257	geckodriver	INFO	Listening on 127.0.0.1:36847
+1611781800262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLB8Xgt"
+
+(firefox:44994): Gtk-WARNING **: 13:10:00.456: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:45274): Gtk-WARNING **: 13:10:01.808: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:45294): Gtk-WARNING **: 13:10:02.412: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:44994): GLib-GIO-WARNING **: 13:10:02.996: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:45375): Gtk-WARNING **: 13:10:05.175: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611781809779	Marionette	INFO	Listening on port 42313
+1611781810348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611807738400	geckodriver	INFO	Listening on 127.0.0.1:49409
+1611807739402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecilD7W"
+
+(firefox:2040): Gtk-WARNING **: 20:22:19.468: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2278): Gtk-WARNING **: 20:22:20.600: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2298): Gtk-WARNING **: 20:22:20.912: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:2040): GLib-GIO-WARNING **: 20:22:21.482: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:2376): Gtk-WARNING **: 20:22:22.413: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611807742687	Marionette	INFO	Listening on port 43969
+1611807742759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611807753409	Marionette	INFO	Stopped listening on port 43969
+1611807764013	geckodriver	INFO	Listening on 127.0.0.1:36677
+1611807764018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHUMptW"
+
+(firefox:2476): Gtk-WARNING **: 20:22:44.162: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2547): Gtk-WARNING **: 20:22:45.222: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2750): Gtk-WARNING **: 20:22:45.520: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:2476): GLib-GIO-WARNING **: 20:22:46.017: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:2837): Gtk-WARNING **: 20:22:47.072: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611807767307	Marionette	INFO	Listening on port 37199
+1611807767369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611807822632	geckodriver	INFO	Listening on 127.0.0.1:51713
+1611807822635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1xwMpy"
+
+(firefox:3146): Gtk-WARNING **: 20:23:42.726: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3219): Gtk-WARNING **: 20:23:43.889: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3240): Gtk-WARNING **: 20:23:44.289: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:3146): GLib-GIO-WARNING **: 20:23:44.721: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3321): Gtk-WARNING **: 20:23:45.788: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611807825967	Marionette	INFO	Listening on port 42867
+1611807826119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611807987506	geckodriver	INFO	Listening on 127.0.0.1:38405
+1611807988512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoRCv2n"
+
+(firefox:4180): Gtk-WARNING **: 20:26:28.580: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4410): Gtk-WARNING **: 20:26:29.679: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4431): Gtk-WARNING **: 20:26:29.982: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:4180): GLib-GIO-WARNING **: 20:26:30.457: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4525): Gtk-WARNING **: 20:26:31.589: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611807991777	Marionette	INFO	Listening on port 46251
+1611807991867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611808761285	geckodriver	INFO	Listening on 127.0.0.1:42593
+1611808761289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJiNNHd"
+
+(firefox:7385): Gtk-WARNING **: 20:39:21.401: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7660): Gtk-WARNING **: 20:39:22.565: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7680): Gtk-WARNING **: 20:39:22.843: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:7385): GLib-GIO-WARNING **: 20:39:23.444: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:7760): Gtk-WARNING **: 20:39:24.509: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611808764700	Marionette	INFO	Listening on port 37913
+1611808764747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611808777568	Marionette	INFO	Stopped listening on port 37913
+1611808782951	geckodriver	INFO	Listening on 127.0.0.1:48773
+1611808783956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL67Q4E"
+
+(firefox:7936): Gtk-WARNING **: 20:39:44.060: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8009): Gtk-WARNING **: 20:39:45.295: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8029): Gtk-WARNING **: 20:39:45.558: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:7936): GLib-GIO-WARNING **: 20:39:45.930: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:8115): Gtk-WARNING **: 20:39:47.187: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611808787243	Marionette	INFO	Listening on port 37593
+1611808787323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611808809473	Marionette	INFO	Stopped listening on port 37593
+1611809021509	geckodriver	INFO	Listening on 127.0.0.1:47025
+1611809021512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPzRaq"
+
+(firefox:9191): Gtk-WARNING **: 20:43:41.604: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:9384): Gtk-WARNING **: 20:43:42.727: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:9406): Gtk-WARNING **: 20:43:43.062: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:9191): GLib-GIO-WARNING **: 20:43:43.578: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9506): Gtk-WARNING **: 20:43:44.747: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611809024937	Marionette	INFO	Listening on port 38395
+1611809025097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611809090347	Marionette	INFO	Stopped listening on port 38395
+1611809091331	geckodriver	INFO	Listening on 127.0.0.1:46355
+1611809091335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenwrJua"
+
+(firefox:9879): Gtk-WARNING **: 20:44:51.425: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:9955): Gtk-WARNING **: 20:44:52.585: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:9975): Gtk-WARNING **: 20:44:52.849: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:9879): GLib-GIO-WARNING **: 20:44:53.435: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:10057): Gtk-WARNING **: 20:44:54.494: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611809094720	Marionette	INFO	Listening on port 44823
+1611809094792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://post.craigslist.org"
+1611811006159	geckodriver	INFO	Listening on 127.0.0.1:34953
+1611811006163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXkfguK"
+
+(firefox:17939): Gtk-WARNING **: 21:16:46.258: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18223): Gtk-WARNING **: 21:16:47.439: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18243): Gtk-WARNING **: 21:16:47.710: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:17939): GLib-GIO-WARNING **: 21:16:48.237: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18330): Gtk-WARNING **: 21:16:49.400: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811009522	Marionette	INFO	Listening on port 40373
+1611811009614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611811105620	geckodriver	INFO	Listening on 127.0.0.1:49167
+1611811106614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAOh5q"
+
+(firefox:18890): Gtk-WARNING **: 21:18:26.731: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18960): Gtk-WARNING **: 21:18:28.092: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18981): Gtk-WARNING **: 21:18:28.503: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:18890): GLib-GIO-WARNING **: 21:18:28.917: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19073): Gtk-WARNING **: 21:18:31.120: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811112595	Marionette	INFO	Listening on port 40359
+1611811112776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611811764718	geckodriver	INFO	Listening on 127.0.0.1:50695
+1611811765716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiS5JvQ"
+
+(firefox:1792): Gtk-WARNING **: 21:29:25.783: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2045): Gtk-WARNING **: 21:29:26.887: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2065): Gtk-WARNING **: 21:29:27.155: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:1792): GLib-GIO-WARNING **: 21:29:27.603: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2148): Gtk-WARNING **: 21:29:28.669: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811768844	Marionette	INFO	Listening on port 35517
+1611811768968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611811836055	geckodriver	INFO	Listening on 127.0.0.1:44601
+1611811836060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGUwhM2"
+
+(firefox:2367): Gtk-WARNING **: 21:30:36.138: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2616): Gtk-WARNING **: 21:30:37.216: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2636): Gtk-WARNING **: 21:30:37.482: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:2367): GLib-GIO-WARNING **: 21:30:38.049: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:2718): Gtk-WARNING **: 21:30:39.032: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811839236	Marionette	INFO	Listening on port 33489
+1611811839308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611811863100	Marionette	INFO	Stopped listening on port 33489
+1611811877288	geckodriver	INFO	Listening on 127.0.0.1:41475
+1611811877292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMj01EX"
+
+(firefox:2909): Gtk-WARNING **: 21:31:17.369: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2999): Gtk-WARNING **: 21:31:18.496: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3019): Gtk-WARNING **: 21:31:18.833: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:2909): GLib-GIO-WARNING **: 21:31:19.242: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3099): Gtk-WARNING **: 21:31:20.312: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811880452	Marionette	INFO	Listening on port 45069
+1611811880574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611811922459	Marionette	INFO	Stopped listening on port 45069
+1611811945675	geckodriver	INFO	Listening on 127.0.0.1:43583
+1611811945697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV9zTDk"
+
+(firefox:3316): Gtk-WARNING **: 21:32:25.777: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3604): Gtk-WARNING **: 21:32:26.909: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3624): Gtk-WARNING **: 21:32:27.163: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:3316): GLib-GIO-WARNING **: 21:32:27.721: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3708): Gtk-WARNING **: 21:32:28.587: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611811948917	Marionette	INFO	Listening on port 36125
+1611811948961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812116289	Marionette	INFO	Stopped listening on port 36125
+1611812142754	geckodriver	INFO	Listening on 127.0.0.1:51593
+1611812142762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea9NLuH"
+
+(firefox:4680): Gtk-WARNING **: 21:35:42.860: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4851): Gtk-WARNING **: 21:35:43.997: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4871): Gtk-WARNING **: 21:35:44.262: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:4680): GLib-GIO-WARNING **: 21:35:44.768: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4951): Gtk-WARNING **: 21:35:45.703: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812145923	Marionette	INFO	Listening on port 46171
+1611812146010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611812237356	Marionette	INFO	Stopped listening on port 35517
+1611812339117	Marionette	INFO	Stopped listening on port 46171
+1611812342821	geckodriver	INFO	Listening on 127.0.0.1:53261
+1611812342826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebZ0RoC"
+
+(firefox:5672): Gtk-WARNING **: 21:39:02.911: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:5742): Gtk-WARNING **: 21:39:03.984: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:5773): Gtk-WARNING **: 21:39:04.259: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:5672): GLib-GIO-WARNING **: 21:39:04.788: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:5866): Gtk-WARNING **: 21:39:05.811: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812345979	Marionette	INFO	Listening on port 46373
+1611812346071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812432917	geckodriver	INFO	Listening on 127.0.0.1:47843
+1611812432921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVkzln"
+
+(firefox:6165): Gtk-WARNING **: 21:40:33.001: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:6236): Gtk-WARNING **: 21:40:34.112: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:6256): Gtk-WARNING **: 21:40:34.388: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:6165): GLib-GIO-WARNING **: 21:40:34.922: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:6337): Gtk-WARNING **: 21:40:35.813: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812436128	Marionette	INFO	Listening on port 38353
+1611812436188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812614701	geckodriver	INFO	Listening on 127.0.0.1:33975
+1611812615704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiW1112"
+
+(firefox:6956): Gtk-WARNING **: 21:43:35.788: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7021): Gtk-WARNING **: 21:43:37.031: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7041): Gtk-WARNING **: 21:43:37.353: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:6956): GLib-GIO-WARNING **: 21:43:37.904: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:7129): Gtk-WARNING **: 21:43:38.894: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812619095	Marionette	INFO	Listening on port 33911
+1611812619159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812695983	Marionette	INFO	Stopped listening on port 33911
+1611812753243	geckodriver	INFO	Listening on 127.0.0.1:46921
+1611812753246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTTXt4K"
+
+(firefox:7722): Gtk-WARNING **: 21:45:53.329: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7988): Gtk-WARNING **: 21:45:54.581: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8008): Gtk-WARNING **: 21:45:54.939: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:7722): GLib-GIO-WARNING **: 21:45:55.404: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:8095): Gtk-WARNING **: 21:45:56.636: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812756850	Marionette	INFO	Listening on port 36023
+1611812756909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812808467	Marionette	INFO	Stopped listening on port 36023
+1611812829897	geckodriver	INFO	Listening on 127.0.0.1:40593
+1611812829901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSPdGBc"
+
+(firefox:8445): Gtk-WARNING **: 21:47:09.998: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8686): Gtk-WARNING **: 21:47:11.149: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8706): Gtk-WARNING **: 21:47:11.457: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:8445): GLib-GIO-WARNING **: 21:47:11.990: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:8796): Gtk-WARNING **: 21:47:12.990: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611812833241	Marionette	INFO	Listening on port 33981
+1611812833356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611812937429	Marionette	INFO	Stopped listening on port 33981
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611813111074	geckodriver	INFO	Listening on 127.0.0.1:42505
+1611813111091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0xom6g"
+
+(firefox:9762): Gtk-WARNING **: 21:51:51.159: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10056): Gtk-WARNING **: 21:51:52.273: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10079): Gtk-WARNING **: 21:51:52.611: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:9762): GLib-GIO-WARNING **: 21:51:53.049: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:10157): Gtk-WARNING **: 21:51:54.170: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611813114350	Marionette	INFO	Listening on port 45293
+1611813114450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611813142949	Marionette	INFO	Stopped listening on port 45293
+1611813157973	geckodriver	INFO	Listening on 127.0.0.1:51567
+1611813157976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRicMKK"
+
+(firefox:10369): Gtk-WARNING **: 21:52:38.064: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10660): Gtk-WARNING **: 21:52:39.158: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10680): Gtk-WARNING **: 21:52:39.412: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:10369): GLib-GIO-WARNING **: 21:52:39.972: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:10767): Gtk-WARNING **: 21:52:41.081: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611813161278	Marionette	INFO	Listening on port 39769
+1611813161346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611813541789	geckodriver	INFO	Listening on 127.0.0.1:56443
+1611813542800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileycy7YG"
+
+(firefox:12193): Gtk-WARNING **: 21:59:02.866: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:12463): Gtk-WARNING **: 21:59:04.017: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:12483): Gtk-WARNING **: 21:59:04.288: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:12193): GLib-GIO-WARNING **: 21:59:04.820: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:12574): Gtk-WARNING **: 21:59:05.887: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611813546041	Marionette	INFO	Listening on port 43433
+1611813546163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611813573052	geckodriver	INFO	Listening on 127.0.0.1:57493
+1611813573058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4IRk8"
+
+(firefox:12765): Gtk-WARNING **: 21:59:33.144: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:13036): Gtk-WARNING **: 21:59:34.288: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:13066): Gtk-WARNING **: 21:59:34.622: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:12765): GLib-GIO-WARNING **: 21:59:35.200: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:13149): Gtk-WARNING **: 21:59:36.241: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611813576492	Marionette	INFO	Listening on port 37883
+1611813576663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611813797394	Marionette	INFO	Stopped listening on port 37883
+1611813985867	Marionette	INFO	Stopped listening on port 43433
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611814013723	Marionette	INFO	Stopped listening on port 46373
+1611814017024	Marionette	INFO	Stopped listening on port 38353
+1611814108783	geckodriver	INFO	Listening on 127.0.0.1:39771
+1611814108788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRhkw4M"
+
+(firefox:15689): Gtk-WARNING **: 22:08:28.869: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:15975): Gtk-WARNING **: 22:08:30.072: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:15996): Gtk-WARNING **: 22:08:30.337: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:15689): GLib-GIO-WARNING **: 22:08:30.907: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:16078): Gtk-WARNING **: 22:08:32.086: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611814112347	Marionette	INFO	Listening on port 39595
+1611814112455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611814134766	Marionette	INFO	Stopped listening on port 39595
+1611814137068	geckodriver	INFO	Listening on 127.0.0.1:57675
+1611814137074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5bcald"
+
+(firefox:16275): Gtk-WARNING **: 22:08:57.172: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16347): Gtk-WARNING **: 22:08:58.530: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16367): Gtk-WARNING **: 22:08:58.976: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:16275): GLib-GIO-WARNING **: 22:08:59.626: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:16440): Gtk-WARNING **: 22:09:00.631: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611814141113	Marionette	INFO	Listening on port 46087
+1611814141242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611814306108	geckodriver	INFO	Listening on 127.0.0.1:55523
+1611814306112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1tvDdr"
+
+(firefox:17027): Gtk-WARNING **: 22:11:46.194: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17182): Gtk-WARNING **: 22:11:47.413: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17206): Gtk-WARNING **: 22:11:47.803: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:17027): GLib-GIO-WARNING **: 22:11:48.129: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17285): Gtk-WARNING **: 22:11:49.231: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611814309410	Marionette	INFO	Listening on port 38321
+1611814309496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611814357729	Marionette	INFO	Stopped listening on port 38321
+1611814517087	geckodriver	INFO	Listening on 127.0.0.1:37443
+1611814517091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAKsvjN"
+
+(firefox:18136): Gtk-WARNING **: 22:15:17.173: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18398): Gtk-WARNING **: 22:15:18.301: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18419): Gtk-WARNING **: 22:15:18.640: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:18136): GLib-GIO-WARNING **: 22:15:19.203: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:18526): Gtk-WARNING **: 22:15:20.330: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611814520513	Marionette	INFO	Listening on port 36587
+1611814520629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611814631190	Marionette	INFO	Stopped listening on port 36587
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611814654204	geckodriver	INFO	Listening on 127.0.0.1:37209
+1611814654208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepc14If"
+
+(firefox:19133): Gtk-WARNING **: 22:17:34.334: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19212): Gtk-WARNING **: 22:17:35.558: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19232): Gtk-WARNING **: 22:17:35.869: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:19133): GLib-GIO-WARNING **: 22:17:36.333: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:19324): Gtk-WARNING **: 22:17:37.381: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611814657697	Marionette	INFO	Listening on port 32929
+1611814657795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1611891260352	Marionette	INFO	Stopped listening on port 32929
+1611891613099	geckodriver	INFO	Listening on 127.0.0.1:44799
+1611891614101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0oPVwP"
+
+(firefox:34809): Gtk-WARNING **: 19:40:14.235: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35026): Gtk-WARNING **: 19:40:15.406: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35050): Gtk-WARNING **: 19:40:15.740: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:34809): GLib-GIO-WARNING **: 19:40:16.324: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:35137): Gtk-WARNING **: 19:40:17.643: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611891617929	Marionette	INFO	Listening on port 38233
+1611891617981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611891696004	Marionette	INFO	Stopped listening on port 38233
+1611891724688	geckodriver	INFO	Listening on 127.0.0.1:60489
+1611891725682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel8eYnH"
+
+(firefox:35644): Gtk-WARNING **: 19:42:05.906: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35903): Gtk-WARNING **: 19:42:07.128: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35923): Gtk-WARNING **: 19:42:07.423: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:35644): GLib-GIO-WARNING **: 19:42:08.018: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:36007): Gtk-WARNING **: 19:42:09.189: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611891729359	Marionette	INFO	Listening on port 42707
+1611891729445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611891807204	Marionette	INFO	Stopped listening on port 42707
+1611891837976	geckodriver	INFO	Listening on 127.0.0.1:44171
+1611891838979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileexM8JW"
+
+(firefox:36534): Gtk-WARNING **: 19:43:59.174: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36757): Gtk-WARNING **: 19:44:00.500: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36781): Gtk-WARNING **: 19:44:01.006: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:36534): GLib-GIO-WARNING **: 19:44:01.465: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:36863): Gtk-WARNING **: 19:44:02.607: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611891843202	Marionette	INFO	Listening on port 42387
+1611891843266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611891861884	Marionette	INFO	Stopped listening on port 42387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611891923045	geckodriver	INFO	Listening on 127.0.0.1:52633
+1611891924045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejmcHOg"
+
+(firefox:37238): Gtk-WARNING **: 19:45:24.173: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37513): Gtk-WARNING **: 19:45:25.371: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37537): Gtk-WARNING **: 19:45:25.851: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:37238): GLib-GIO-WARNING **: 19:45:26.314: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:37614): Gtk-WARNING **: 19:45:27.233: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611891927969	Marionette	INFO	Listening on port 33607
+1611891928021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611891951197	Marionette	INFO	Stopped listening on port 33607
+1611892019053	geckodriver	INFO	Listening on 127.0.0.1:46403
+1611892020053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3dmQk"
+
+(firefox:38045): Gtk-WARNING **: 19:47:00.251: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38325): Gtk-WARNING **: 19:47:01.624: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38345): Gtk-WARNING **: 19:47:01.995: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:38045): GLib-GIO-WARNING **: 19:47:02.541: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:38422): Gtk-WARNING **: 19:47:03.741: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611892024210	Marionette	INFO	Listening on port 37229
+1611892024337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611892073031	Marionette	INFO	Stopped listening on port 37229
+1611892088863	geckodriver	INFO	Listening on 127.0.0.1:58371
+1611892089873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Eg3nA"
+
+(firefox:38761): Gtk-WARNING **: 19:48:10.069: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38836): Gtk-WARNING **: 19:48:11.241: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:39070): Gtk-WARNING **: 19:48:11.873: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:38761): GLib-GIO-WARNING **: 19:48:12.403: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:39147): Gtk-WARNING **: 19:48:13.245: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611892094156	Marionette	INFO	Listening on port 35209
+1611892094266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611892901522	Marionette	INFO	Stopped listening on port 35209
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611894812290	geckodriver	INFO	Listening on 127.0.0.1:40949
+1611894813295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFBQ6hK"
+
+(firefox:48319): Gtk-WARNING **: 20:33:33.452: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:48508): Gtk-WARNING **: 20:33:34.803: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:48528): Gtk-WARNING **: 20:33:35.105: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:48319): GLib-GIO-WARNING **: 20:33:35.703: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:48610): Gtk-WARNING **: 20:33:36.771: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611894816975	Marionette	INFO	Listening on port 40733
+1611894817056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611894886903	geckodriver	INFO	Listening on 127.0.0.1:47711
+1611894887899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesSNVG9"
+
+(firefox:48992): Gtk-WARNING **: 20:34:48.186: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:49075): Gtk-WARNING **: 20:34:50.278: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:49101): Gtk-WARNING **: 20:34:51.917: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:48992): GLib-GIO-WARNING **: 20:34:56.286: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1611895662219	geckodriver	INFO	Listening on 127.0.0.1:35095
+1611895663219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1glemP"
+
+(firefox:1906): Gtk-WARNING **: 20:47:43.283: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:1973): Gtk-WARNING **: 20:47:44.559: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:1993): Gtk-WARNING **: 20:47:45.060: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:1906): GLib-GIO-WARNING **: 20:47:45.565: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:2073): Gtk-WARNING **: 20:47:46.607: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611895667226	Marionette	INFO	Listening on port 42169
+1611895667287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611895676065	geckodriver	INFO	Listening on 127.0.0.1:34197
+1611895676074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMWknm"
+
+(firefox:2197): Gtk-WARNING **: 20:47:56.185: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2263): Gtk-WARNING **: 20:47:57.374: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2283): Gtk-WARNING **: 20:47:57.647: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:2197): GLib-GIO-WARNING **: 20:47:58.178: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2368): Gtk-WARNING **: 20:47:59.331: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611895679661	Marionette	INFO	Listening on port 45657
+1611895679744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611895697987	Marionette	INFO	Stopped listening on port 45657
+1611895735010	geckodriver	INFO	Listening on 127.0.0.1:36301
+1611895736014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNNd4Tv"
+
+(firefox:2583): Gtk-WARNING **: 20:48:56.082: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2770): Gtk-WARNING **: 20:48:57.197: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:2792): Gtk-WARNING **: 20:48:57.474: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:2583): GLib-GIO-WARNING **: 20:48:57.934: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:2872): Gtk-WARNING **: 20:48:59.013: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611895739187	Marionette	INFO	Listening on port 40981
+1611895739269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611895768623	Marionette	INFO	Stopped listening on port 40981
+1611895833320	geckodriver	INFO	Listening on 127.0.0.1:54953
+1611895833323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVyJBkl"
+
+(firefox:3238): Gtk-WARNING **: 20:50:33.404: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3306): Gtk-WARNING **: 20:50:34.497: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:3334): Gtk-WARNING **: 20:50:34.814: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:3238): GLib-GIO-WARNING **: 20:50:35.519: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:3415): Gtk-WARNING **: 20:50:36.367: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611895837045	Marionette	INFO	Listening on port 43771
+1611895837102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611895848874	Marionette	INFO	Stopped listening on port 43771
+1611895928710	Marionette	INFO	Stopped listening on port 42169
+1611896097617	geckodriver	INFO	Listening on 127.0.0.1:40761
+1611896097622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGd497j"
+
+(firefox:4250): Gtk-WARNING **: 20:54:57.693: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4529): Gtk-WARNING **: 20:54:58.912: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:4549): Gtk-WARNING **: 20:54:59.161: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:4250): GLib-GIO-WARNING **: 20:54:59.583: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:4638): Gtk-WARNING **: 20:55:00.669: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611896100993	Marionette	INFO	Listening on port 41525
+1611896101074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611896235051	Marionette	INFO	Stopped listening on port 41525
+1611896452122	geckodriver	INFO	Listening on 127.0.0.1:54525
+1611896452125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT4dRPn"
+
+(firefox:5674): Gtk-WARNING **: 21:00:52.209: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:5746): Gtk-WARNING **: 21:00:53.392: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:5766): Gtk-WARNING **: 21:00:53.651: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:5674): GLib-GIO-WARNING **: 21:00:54.042: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5847): Gtk-WARNING **: 21:00:55.061: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611896455275	Marionette	INFO	Listening on port 46493
+1611896455377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611896838433	Marionette	INFO	Stopped listening on port 46493
+1611984704886	geckodriver	INFO	Listening on 127.0.0.1:34383
+1611984704889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekupBLJ"
+
+(firefox:16434): Gtk-WARNING **: 21:31:44.963: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16515): Gtk-WARNING **: 21:31:46.050: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16754): Gtk-WARNING **: 21:31:46.393: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:16434): GLib-GIO-WARNING **: 21:31:46.965: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:16830): Gtk-WARNING **: 21:31:48.027: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611984708216	Marionette	INFO	Listening on port 46081
+1611984708343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611984732725	Marionette	INFO	Stopped listening on port 46081
+1611984751033	geckodriver	INFO	Listening on 127.0.0.1:58393
+1611984751038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13CpF9"
+
+(firefox:17035): Gtk-WARNING **: 21:32:31.133: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17292): Gtk-WARNING **: 21:32:32.273: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17312): Gtk-WARNING **: 21:32:32.631: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:17035): GLib-GIO-WARNING **: 21:32:33.074: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17398): Gtk-WARNING **: 21:32:34.147: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611984754302	Marionette	INFO	Listening on port 41467
+1611984754388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611984811088	Marionette	INFO	Stopped listening on port 41467
+1611984845399	geckodriver	INFO	Listening on 127.0.0.1:54447
+1611984845407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBTJadd"
+
+(firefox:17868): Gtk-WARNING **: 21:34:05.484: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18135): Gtk-WARNING **: 21:34:06.787: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18155): Gtk-WARNING **: 21:34:07.071: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:17868): GLib-GIO-WARNING **: 21:34:07.721: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:18240): Gtk-WARNING **: 21:34:08.725: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611984848871	Marionette	INFO	Listening on port 36327
+1611984848964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611985142852	geckodriver	INFO	Listening on 127.0.0.1:45687
+1611985142856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelaDa80"
+
+(firefox:19123): Gtk-WARNING **: 21:39:02.949: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19191): Gtk-WARNING **: 21:39:04.108: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19211): Gtk-WARNING **: 21:39:04.394: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:19123): GLib-GIO-WARNING **: 21:39:04.910: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:19289): Gtk-WARNING **: 21:39:06.000: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611985146223	Marionette	INFO	Listening on port 37801
+1611985146310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611985236528	geckodriver	INFO	Listening on 127.0.0.1:41525
+1611985236534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewgyXl2"
+
+(firefox:19705): Gtk-WARNING **: 21:40:36.652: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19780): Gtk-WARNING **: 21:40:37.817: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:19801): Gtk-WARNING **: 21:40:38.081: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:19705): GLib-GIO-WARNING **: 21:40:38.546: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:19886): Gtk-WARNING **: 21:40:39.399: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611985239867	Marionette	INFO	Listening on port 42889
+1611985239990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611985352681	geckodriver	INFO	Listening on 127.0.0.1:50829
+1611985353687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR5rCbs"
+
+(firefox:20406): Gtk-WARNING **: 21:42:33.762: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:20705): Gtk-WARNING **: 21:42:35.045: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:20725): Gtk-WARNING **: 21:42:35.328: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:20406): GLib-GIO-WARNING **: 21:42:35.909: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:20805): Gtk-WARNING **: 21:42:36.965: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611985357172	Marionette	INFO	Listening on port 33745
+1611985357237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611985412324	Marionette	INFO	Stopped listening on port 33745
+1611985424591	geckodriver	INFO	Listening on 127.0.0.1:36353
+1611985425584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileie9eDl"
+
+(firefox:21239): Gtk-WARNING **: 21:43:45.768: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:21506): Gtk-WARNING **: 21:43:46.906: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:21527): Gtk-WARNING **: 21:43:47.188: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:21239): GLib-GIO-WARNING **: 21:43:47.583: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21612): Gtk-WARNING **: 21:43:48.807: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611985429010	Marionette	INFO	Listening on port 42515
+1611985429048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611985456796	Marionette	INFO	Stopped listening on port 42515
+1611985516964	geckodriver	INFO	Listening on 127.0.0.1:33361
+1611985517962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunm1LW"
+
+(firefox:22096): Gtk-WARNING **: 21:45:18.096: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:22370): Gtk-WARNING **: 21:45:19.291: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:22390): Gtk-WARNING **: 21:45:19.840: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:22096): GLib-GIO-WARNING **: 21:45:20.448: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:22474): Gtk-WARNING **: 21:45:21.475: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611985522322	Marionette	INFO	Listening on port 42885
+1611985522446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611986643639	geckodriver	INFO	Listening on 127.0.0.1:51991
+1611986644640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMtyGIE"
+
+(firefox:27706): Gtk-WARNING **: 22:04:04.902: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:27788): Gtk-WARNING **: 22:04:06.817: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28026): Gtk-WARNING **: 22:04:08.251: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:27706): GLib-GIO-WARNING **: 22:04:21.382: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Exiting due to channel error.
+Exiting due to channel error.
+1611986727488	Marionette	INFO	Stopped listening on port 42885
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611986737542	Marionette	INFO	Stopped listening on port 42889
+1611986740351	Marionette	INFO	Stopped listening on port 37801
+1611986752145	geckodriver	INFO	Listening on 127.0.0.1:39257
+1611986752157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile432XXu"
+
+(firefox:28593): Gtk-WARNING **: 22:05:52.333: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28665): Gtk-WARNING **: 22:05:53.501: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28884): Gtk-WARNING **: 22:05:53.791: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:28593): GLib-GIO-WARNING **: 22:05:54.343: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:28971): Gtk-WARNING **: 22:05:55.406: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611986755571	Marionette	INFO	Listening on port 32851
+1611986755608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611987827649	Marionette	INFO	Stopped listening on port 32851
+1611987844407	geckodriver	INFO	Listening on 127.0.0.1:37331
+1611987844411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileObeWfQ"
+
+(firefox:32613): Gtk-WARNING **: 22:24:04.507: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32689): Gtk-WARNING **: 22:24:05.596: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:32709): Gtk-WARNING **: 22:24:05.873: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:32613): GLib-GIO-WARNING **: 22:24:06.385: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:32794): Gtk-WARNING **: 22:24:07.405: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611987847603	Marionette	INFO	Listening on port 33297
+1611987847665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988049385	geckodriver	INFO	Listening on 127.0.0.1:33501
+1611988049388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledaLnPz"
+
+(firefox:33528): Gtk-WARNING **: 22:27:29.485: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:33800): Gtk-WARNING **: 22:27:30.638: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:33820): Gtk-WARNING **: 22:27:30.901: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:33528): GLib-GIO-WARNING **: 22:27:31.513: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:33903): Gtk-WARNING **: 22:27:32.611: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988052776	Marionette	INFO	Listening on port 37941
+1611988052843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1611988080364	Marionette	INFO	Stopped listening on port 37941
+1611988464968	geckodriver	INFO	Listening on 127.0.0.1:48577
+1611988465969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6oHzoG"
+
+(firefox:35569): Gtk-WARNING **: 22:34:26.228: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35632): Gtk-WARNING **: 22:34:27.652: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:35655): Gtk-WARNING **: 22:34:28.622: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:35569): GLib-GIO-WARNING **: 22:34:30.819: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:35753): Gtk-WARNING **: 22:34:32.420: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988473375	Marionette	INFO	Listening on port 43779
+1611988473514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988487208	Marionette	INFO	Stopped listening on port 33297
+1611988491499	Marionette	INFO	Stopped listening on port 43779
+1611988521314	geckodriver	INFO	Listening on 127.0.0.1:48805
+1611988522314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNnXXVo"
+
+(firefox:36005): Gtk-WARNING **: 22:35:22.455: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36077): Gtk-WARNING **: 22:35:23.595: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36316): Gtk-WARNING **: 22:35:23.917: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:36005): GLib-GIO-WARNING **: 22:35:24.608: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:36400): Gtk-WARNING **: 22:35:25.459: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988525832	Marionette	INFO	Listening on port 34469
+1611988525882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988544804	Marionette	INFO	Stopped listening on port 34469
+1611988555252	geckodriver	INFO	Listening on 127.0.0.1:52591
+1611988555255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejqnA1x"
+
+(firefox:36569): Gtk-WARNING **: 22:35:55.344: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36787): Gtk-WARNING **: 22:35:56.538: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:36807): Gtk-WARNING **: 22:35:56.814: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:36569): GLib-GIO-WARNING **: 22:35:57.316: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:36888): Gtk-WARNING **: 22:35:58.308: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988558492	Marionette	INFO	Listening on port 39899
+1611988558602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988589779	Marionette	INFO	Stopped listening on port 39899
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611988592464	Marionette	INFO	Stopped listening on port 36327
+1611988597332	geckodriver	INFO	Listening on 127.0.0.1:43579
+1611988597337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecUDmv9"
+
+(firefox:37086): Gtk-WARNING **: 22:36:37.419: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37157): Gtk-WARNING **: 22:36:38.544: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37177): Gtk-WARNING **: 22:36:38.810: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:37086): GLib-GIO-WARNING **: 22:36:39.253: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+
+(/usr/lib/firefox/firefox:37261): Gtk-WARNING **: 22:36:40.255: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988600443	Marionette	INFO	Listening on port 34005
+1611988600487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988703663	Marionette	INFO	Stopped listening on port 34005
+1611988740630	geckodriver	INFO	Listening on 127.0.0.1:57759
+1611988740633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelccYtj"
+
+(firefox:37641): Gtk-WARNING **: 22:39:00.711: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37708): Gtk-WARNING **: 22:39:01.864: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:37793): Gtk-WARNING **: 22:39:02.298: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:37641): GLib-GIO-WARNING **: 22:39:02.690: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37873): Gtk-WARNING **: 22:39:03.659: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988743899	Marionette	INFO	Listening on port 46605
+1611988743997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988816947	geckodriver	INFO	Listening on 127.0.0.1:33415
+1611988817953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew6PuQo"
+
+(firefox:38135): Gtk-WARNING **: 22:40:18.043: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38410): Gtk-WARNING **: 22:40:19.302: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(/usr/lib/firefox/firefox:38430): Gtk-WARNING **: 22:40:19.567: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+
+(firefox:38135): GLib-GIO-WARNING **: 22:40:19.947: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38516): Gtk-WARNING **: 22:40:21.214: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/hman/.config/gtk-3.0/window_decorations.css: No such file or directory
+1611988821357	Marionette	INFO	Listening on port 44835
+1611988821429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611988883306	Marionette	INFO	Stopped listening on port 44835
